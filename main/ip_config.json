@@ -1,1 +1,12 @@
-
+{
+    "vps_list": [
+        {
+            "vps_ip": "43.249.33.136",
+            "name": "My VPS",
+            "expiry": "2026-12-31",
+            "active": true,
+            "added_by": "Admin",
+            "added_date": "2026-04-02"
+        }
+    ]
+}
